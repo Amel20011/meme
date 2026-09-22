@@ -1,0 +1,6 @@
+{
+  "name": "EDUKA",
+  "description": "Aplikasi edukasi modern berfokus pada active recall, spaced repetition, dan evaluasi bab terstruktur untuk SD hingga Kuliah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
